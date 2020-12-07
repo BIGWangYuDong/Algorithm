@@ -1,7 +1,7 @@
 # sort
 排序算法
 
-![](https://github.com/BIGWangYuDong/sort/blob/main/sort.png)
+![](https://github.com/BIGWangYuDong/sort/blob/main/sort/sort.png)
 
 ### 相关概念
 
