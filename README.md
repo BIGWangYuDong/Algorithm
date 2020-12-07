@@ -1,7 +1,7 @@
 # sort
 排序算法
 
-![](E:\pycharm-project\try1\sort\sort\sort.png)
+![](https://github.com/BIGWangYuDong/sort/blob/main/sort.png)
 
 ### 相关概念
 
